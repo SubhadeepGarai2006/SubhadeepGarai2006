@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi there 👋
 
 <!--
 **SubhadeepGarai2006/SubhadeepGarai2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Subhadeep+Garai;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Python+%7C+NumPy+%7C+Pandas;Welcome+to+my+GitHub+Profile" />
 </h1>
-## ⚡ Technical Skills
+ ⚡ Technical Skills
 
 
 
